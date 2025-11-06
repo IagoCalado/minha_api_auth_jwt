@@ -202,4 +202,4 @@ ISC License
 
 ---
 
-**Desenvolvido para a atividade de Mini API com Segurança (JWT)**
+**Desenvolvido para a atividade de API com Segurança (JWT)**
