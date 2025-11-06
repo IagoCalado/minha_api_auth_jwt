@@ -1,0 +1,1 @@
+# minha_api_auth_jwt
